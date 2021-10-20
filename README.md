@@ -1,1 +1,3 @@
-# BACKEND COURSE STEPIC (@annv0r0)
+# BACKEND COURSE
+
+This is the materials for backend course.
